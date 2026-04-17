@@ -1,0 +1,49 @@
+.bg-brand-gradient {
+  background: linear-gradient(to right, #8A2BE2, #FF00FF) !important;
+}
+
+.shadow-purple-glow {
+  box-shadow: 0 0 20px rgba(138, 43, 226, 0.6) !important;
+}
+
+.shadow-purple-glow-lg {
+  box-shadow: 0 0 30px rgba(138, 43, 226, 0.8) !important;
+}
+
+.bg-glass {
+  background-color: rgba(30, 41, 59, 0.5) !important;
+  backdrop-filter: blur(12px) !important;
+  -webkit-backdrop-filter: blur(12px) !important;
+}
+
+.text-brand-magenta {
+  color: #FF00FF !important;
+}
+
+.text-brand-cyan {
+  color: #00F2FF !important;
+}
+
+.bg-brand-cyan\/10 {
+  background-color: rgba(0, 242, 255, 0.1) !important;
+}
+
+.bg-brand-purple\/10 {
+  background-color: rgba(138, 43, 226, 0.1) !important;
+}
+
+.bg-brand-purple\/5 {
+  background-color: rgba(138, 43, 226, 0.05) !important;
+}
+
+.border-brand-purple\/20 {
+  border-color: rgba(138, 43, 226, 0.2) !important;
+}
+
+.text-brand-magenta\/80 {
+  color: rgba(255, 0, 255, 0.8) !important;
+}
+
+.border-brand-magenta\/30 {
+  border-color: rgba(255, 0, 255, 0.3) !important;
+}
